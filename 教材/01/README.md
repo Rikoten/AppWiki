@@ -11,7 +11,7 @@
 ((androidレベルの表示から) `app-java-com.rikoten.androidpractice01-MainActivity.java`)  
   
   
-- 共通
+- 共通  
 `/*ここから下を作ってください*/` から  
   
 `/*ここまでを作ってください*/` まで  
