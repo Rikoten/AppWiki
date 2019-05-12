@@ -4,6 +4,6 @@ iosとandroidそれぞれについて問題と解答を載せています。
   
 問題は各問題のフォルダの中に書いているので参照してください。  
   
-macでiosを作る人は'ios_'から始まるzipファイルを  
-windowsでandroidを作る人は'android_'から始まるzipファイルを  
+macでiosを作る人は`ios_`から始まるzipファイルを  
+windowsでandroidを作る人は`android_`から始まるzipファイルを  
 ダウンロードして進めてください。
