@@ -6,7 +6,11 @@
 プロジェクトの中から`ViewController.swift`を開いてください。  
 (`iosPractice03-iosPractice03-ViewController.swift`)  
   
-
+- androidの人
+プロジェクトの中から`MainActivity.java`を開いてください。  
+((androidレベルの表示から) `app-java-com.rikoten.androidpractice02-MainActivity.java`)  
+  
+  
 - 共通  
 `/*ここから下を作ってください*/` から<br><br>
 `/*ここまでを作ってください*/` まで<br>
